@@ -1,2 +1,4 @@
 # BellmanFord-Dijkstras
 Compares the performance of Bellman Ford and Dijkstra algorithms and outputs the results to a text file
+
+While the initial assignment for was to randomly generate graphs with x verticese and y edges, we also were tasked with applying these algorithms to our graphfile parser program as well.
